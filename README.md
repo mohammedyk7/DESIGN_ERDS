@@ -1,4 +1,4 @@
-# 🏨 Database Design Practice Projects
+# Database Design Practice Projects
 
 This repository contains multiple database modeling exercises, ERDs, and relational mappings for real-world scenarios including **Hotel Management**, **College Systems**, **Airline Reservations**, and **Company Operations**. These projects demonstrate how to convert system requirements into structured Entity-Relationship Diagrams (ERDs) and map them into normalized relational schemas.
 
